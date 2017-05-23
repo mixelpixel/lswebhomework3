@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Patrick, a.k.a. "mixelpix"
 
-I like to:
+I like to: study analytical philosophy and play the bass guitar.
 
-I'm learning:
+I'm learning: all sortsa good stuff!
 
 ```
 
