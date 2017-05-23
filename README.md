@@ -20,7 +20,7 @@ I'm learning: all sortsa good stuff!
 ```
 
 4. Add a screenshot (.jpg or .png is fine) of a tweet you've altered using Inspect Element in Chrome to the project folder.  
-<details><summary>Click here for a Tweet edited with Safari's "Inspect Elements"</summary><img src="Inspect_Element_mods.png")</details>
+<details><summary>Click here for a Tweet edited with Safari's "Inspect Elements"</summary><img src="https://github.com/mixelpixel/lswebhomework3/blob/master/Inspect_Element_mods.png</details>
 
 5. Push it up to your own repository on Github (don't try to override the original).
 
