@@ -13,7 +13,7 @@
 
 My name is: Patrick, a.k.a. "mixelpix"
 
-I like to: study analytical philosophy and play the bass guitar.
+I like to: use symbols like "lambda" λ and the "checkmark" √ to indicate I've finished the items in this homework assignment!
 
 I'm learning: all sortsa good stuff!
 
@@ -35,7 +35,7 @@ I am learning how to use git at Lambda School's [online code bootcamp](https://l
 ```
 
 3. Push your changes to your new repository. λ√
- - [hellolambdaschool github repository]()
+ - [hellolambdaschool github repository](https://github.com/mixelpixel/hellolambdaschool)
 
 That's it. Good luck!
 
